@@ -1,1 +1,1 @@
-# cooking-partner
+# Cooking Partner
