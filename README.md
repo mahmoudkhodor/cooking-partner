@@ -10,3 +10,13 @@ In this project there:
 - Created service for http requests
 - Created custom Pipes, Directives
 - Managed Authentication and Route protection
+
+## Planning
+
+![Planning](cooking-partner/readmeimages/planning.png)
+
+## the screens
+
+![Recipes](cooking-partner/readmeimages/shnitzel.png)
+
+![Recipes](cooking-partner/readmeimages/recipes.png)
